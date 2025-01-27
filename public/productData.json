@@ -1,0 +1,163 @@
+[
+    {
+      "productId": 1,
+      "title": "Gaming Laptop",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRWlvZecWiUleGf5gmQGybdb5uJH39rl56mQ&s",
+      "category": "Computers",
+      "price": 1299.99,
+      "description": "High-performance gaming laptop with RGB keyboard and advanced cooling system.",
+      "specification": [
+        "Intel i9 Processor",
+        "32GB RAM",
+        "1TB SSD",
+        "NVIDIA RTX 3080"
+      ],
+      "availability": true,
+      "rating": 4.8
+    },
+    {
+      "productId": 2,
+      "title": "Touchscreen Laptop",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTriarVFvdFWUe9t-hiAS8h7EvjWIjFn_NFw&s",
+      "category": "Computers",
+      "price": 849.99,
+      "description": "Lightweight 2-in-1 laptop with touchscreen display and stylus support.",
+      "specification": [
+        "AMD Ryzen 7 Processor",
+        "16GB RAM",
+        "512GB SSD",
+        "13.3-inch Touchscreen"
+      ],
+      "availability": true,
+      "rating": 4.6
+    },
+    {
+      "productId": 3,
+      "title": "Flagship Smartphone",
+      "image": "https://mezha.media/wp-content/uploads/2024/06/10-old-flagship-phones-worth-to-buy-08.jpg",
+      "category": "Phones",
+      "price": 999.99,
+      "description": "Premium smartphone with industry-leading camera and vibrant display.",
+      "specification": [
+        "6.8-inch AMOLED Display",
+        "Quad Camera System",
+        "5000mAh Battery",
+        "5G Connectivity"
+      ],
+      "availability": true,
+      "rating": 4.9
+    },
+    {
+      "productId":4,
+      "title": "Budget Smartphone",
+      "image": "https://ecdn.dhakatribune.net/contents/cache/images/640x359x1/uploads/dten/2022/12/28/smartphone-of-the-year---feature.jpeg",
+      "category": "Phones",
+      "price": 199.99,
+      "description": "Affordable smartphone with reliable performance and large battery.",
+      "specification": [
+        "6.5-inch LCD Display",
+        "Dual Camera Setup",
+        "4000mAh Battery",
+        "4G LTE"
+      ],
+      "availability": true,
+      "rating": 4.3
+    },
+    {
+      "productId": 5,
+      "title": "Smart Watch",
+      "image": "https://istarmax.com/wp-content/uploads/2024/02/2024-FEB-PRODUCT-RANGE-1-1024x499.webp",
+      "category": "Smart Watches",
+      "price": 249.99,
+      "description": "Stylish smartwatch with fitness tracking, GPS, and water resistance.",
+      "specification": [
+        "Heart Rate Monitoring",
+        "Built-in GPS",
+        "AMOLED Display",
+        "50m Water Resistance"
+      ],
+      "availability": true,
+      "rating": 4.7
+    },
+    {
+      "productId": 6,
+      "title": "Fitness Smart Watch",
+      "image": "https://cdn.mos.cms.futurecdn.net/zgS4v3JzMW97u3KWApo5qZ.jpg",
+      "category": "Smart Watches",
+      "price": 149.99,
+      "description": "Lightweight smartwatch designed for active lifestyles and fitness enthusiasts.",
+      "specification": [
+        "Step Counter",
+        "Sleep Monitoring",
+        "10-day Battery Life",
+        "IP68 Waterproof"
+      ],
+      "availability": true,
+      "rating": 4.5
+    },
+    {
+      "productId":7,
+      "title": "Wireless Charger",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiqsFAn-GbrE34Ga9eT7NjZSgoFlVB8oCObg&s",
+      "category": "Chargers",
+      "price": 29.99,
+      "description": "Quick wireless charger compatible with multiple smartphone models.",
+      "specification": [
+        "15W Fast Charging",
+        "Qi Certified",
+        "Overheat Protection",
+        "Compact Design"
+      ],
+      "availability": true,
+      "rating": 4.6
+    },
+    {
+      "productId": 8,
+      "title": "USB-C Charger",
+      "image": "https://i0.wp.com/blog.ugreen.com/wp-content/uploads/2021/05/836x488-3.png?resize=697%2C407&ssl=1",
+      "category": "Chargers",
+      "price": 19.99,
+      "description": "High-speed USB-C wall charger for smartphones, tablets, and laptops.",
+      "specification": [
+        "30W Output",
+        "Overcharge Protection",
+        "Compact and Lightweight",
+        "Universal Compatibility"
+      ],
+      "availability": true,
+      "rating": 4.4
+    },
+    {
+      "productId": 9,
+      "title": "Portable Power Bank",
+      "image": "https://cdn.thewirecutter.com/wp-content/media/2023/08/powerbanks-2048px-1508-2x1-1.jpg?width=2048&quality=75&crop=2:1&auto=webp",
+      "category": "Power Banks",
+      "price": 49.99,
+      "description": "High-capacity power bank with fast charging and dual USB ports.",
+      "specification": [
+        "20000mAh Capacity",
+        "Dual USB Output",
+        "Fast Charging",
+        "LED Battery Indicator"
+      ],
+      "availability": true,
+      "rating": 4.7
+    },
+    {
+      "productId": 10,
+      "title": "Slim Power Bank",
+      "image": "https://www.techadvisor.com/wp-content/uploads/2023/06/Vinsic_20000mah_power_bank.jpg?quality=50&strip=all",
+      "category": "Power Banks",
+      "price": 29.99,
+      "description": "Compact and slim power bank perfect for travel and everyday use.",
+      "specification": [
+        "10000mAh Capacity",
+        "USB-C and USB-A Ports",
+        "Fast Charging",
+        "Lightweight Design"
+      ],
+      "availability": true,
+      "rating": 4.5
+    }
+  ]
+  

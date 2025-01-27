@@ -1,0 +1,9 @@
+.sora {
+    font-family: "Sora", serif;
+}
+a.active {
+    color: black;
+    font:bold;
+    background-color: white;
+  }
+  
