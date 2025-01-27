@@ -9,11 +9,12 @@ import {
 import Root from './Component/Root/Root.jsx';
 import ErrorPage from './Component/ErrorPage/ErrorPage.jsx';
 import Home from './Component/Home/Home.jsx';
-import Statastics from './Component/Navbar/Statastics/Statastics.jsx';
+
 import ProductDetails from './Component/ProductDetails/ProductDetails.jsx';
 import Dashboard from './Component/Dashboard/Dashboard.jsx';
 import React from 'react';
 import { ToastContainer } from 'react-toastify';
+import Statistics from './Component/Statistics/Statistics.jsx';
 
 const router = createBrowserRouter([
   {
@@ -32,7 +33,8 @@ const router = createBrowserRouter([
       },
       {
         path:'/statistics',
-        element:<Statastics></Statastics>
+        element: <Statistics></Statistics>,
+        loader: () => fetch('/productData.json')
       },
       {
         path:'/dashboard',
